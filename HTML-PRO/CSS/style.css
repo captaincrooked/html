@@ -1,0 +1,36 @@
+h1{
+    color:rgb(17, 17, 18);
+    font-size: xx-large;
+    font-weight: 300;
+}
+body{
+    color: black;
+    font-size: larger;
+    font-weight: 100;
+    background-image: url(Podcast-Website-Design-Background-Image.jpg);
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+p{
+    color: black;
+    font-weight: 400;
+}
+a{
+    position: inherit;
+    top: 105%;
+    left: 50%;
+    transform: translate(-100%,-20%);
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
+table{
+    position: inherit;
+    top: 125%;
+    left: 40%;
+    transform: translate(-80%,-60%);
+    font-size: large;
+    font-weight: 200;
+    color: black;
+}
